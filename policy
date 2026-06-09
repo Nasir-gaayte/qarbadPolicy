@@ -1,0 +1,89 @@
+# Privacy Policy
+
+**App Name:** Qarbad
+**Developer:** SomDevOps  
+**Last updated:** June 9, 2026
+
+---
+
+## 1. Introduction
+
+This privacy policy explains how Qarbad handles your information when you use our application. By using Qarbad, you agree to the practices described in this policy.
+
+**Contact:**
+- Email: somdevops@gmail.com
+- Developer: SomDevOps, Bosaso, Puntland, Somalia
+
+---
+
+## 2. Data Collection
+
+**Qarbad does not collect, transmit, or share any personal or sensitive data.**
+
+All information you enter into this app — including but not limited to expense records, income records, account names, account balances, transaction descriptions, and any profile details (name, email, phone) — is stored **exclusively on your device** using local SQLite storage.
+
+We do not:
+- Collect any personal information
+- Transmit any data to external servers
+- Share any data with third parties
+- Use any analytics or tracking SDKs
+- Display third-party advertisements
+- Access your location, contacts, camera, microphone, or any other device sensors
+- Require an internet connection for normal operation
+
+---
+
+## 3. Data Categories — None Collected
+
+| Category | Collected? | Purpose |
+|----------|-----------|---------|
+| Personal info (name, email, phone) | No | Entered by user, stored locally only |
+| Financial data (transactions, balances) | No | Entered by user, stored locally only |
+| Device identifiers | No | — |
+| Location data | No | — |
+| Photos / media | No | — |
+| Contacts | No | — |
+| Usage analytics | No | — |
+| Crash logs | No | — |
+| Advertising data | No | — |
+| Communications (SMS, calls) | No | — |
+
+---
+
+## 4. Data Storage & Security
+
+All data resides in a local SQLite database on your device. The app does not create any online accounts, does not sync to the cloud, and does not transmit any information over a network.
+
+**Data deletion:** Uninstalling Qarbad removes all stored data from your device.
+
+---
+
+## 5. Children's Privacy
+
+Qarbad does not knowingly collect any personal information from children under the age of 13 (or the applicable age of consent in your jurisdiction). Since no data is collected at all, children can use the app safely without risk of data collection.
+
+---
+
+## 6. Your Rights (GDPR, CCPA, and similar regulations)
+
+Because Qarbad does not collect any personal data, there is no data to access, correct, delete, or port. You have full control over your data — all information you enter is under your control on your own device, and you can delete it at any time by editing or removing records within the app, or by uninstalling the application.
+
+---
+
+## 7. Changes to This Policy
+
+We may update this privacy policy from time to time. Changes will be reflected by updating the "Last updated" date at the top of this policy.
+
+---
+
+## 8. Contact
+
+If you have any questions about this privacy policy, please contact us:
+
+**Email:** somdevops@gmail.com  
+**Developer:** SomDevOps  
+**Location:** Bosaso, Puntland, Somalia
+
+---
+
+*Your privacy is built into the design of Qarbad. We believe your financial data belongs to you — and only you.*
